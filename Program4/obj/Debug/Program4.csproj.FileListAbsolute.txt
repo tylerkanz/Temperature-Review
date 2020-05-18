@@ -1,0 +1,12 @@
+c:\users\tyler\documents\visual studio 2012\Projects\Program4\Program4\bin\Debug\Program4.exe.config
+c:\users\tyler\documents\visual studio 2012\Projects\Program4\Program4\obj\Debug\Program4.csprojResolveAssemblyReference.cache
+c:\users\tyler\documents\visual studio 2012\Projects\Program4\Program4\obj\Debug\Program4.Form1.resources
+c:\users\tyler\documents\visual studio 2012\Projects\Program4\Program4\obj\Debug\Program4.Properties.Resources.resources
+c:\users\tyler\documents\visual studio 2012\Projects\Program4\Program4\obj\Debug\Program4.csproj.GenerateResource.Cache
+c:\users\tyler\documents\visual studio 2012\Projects\Program4\Program4\bin\Debug\Program4.exe
+c:\users\tyler\documents\visual studio 2012\Projects\Program4\Program4\bin\Debug\Program4.pdb
+c:\users\tyler\documents\visual studio 2012\Projects\Program4\Program4\obj\Debug\Program4.exe
+c:\users\tyler\documents\visual studio 2012\Projects\Program4\Program4\obj\Debug\Program4.pdb
+C:\Users\Tyler\Desktop\Individual\Program 4\Program4\bin\Debug\Program4.exe.config
+C:\Users\Tyler\Desktop\Individual\Program 4\Program4\obj\Debug\Program4.exe
+C:\Users\Tyler\Desktop\Individual\Program 4\Program4\obj\Debug\Program4.pdb
